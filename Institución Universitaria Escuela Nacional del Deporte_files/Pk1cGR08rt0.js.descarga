@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("ReactDOMLegacy_DEPRECATED",["cr:1108857","cr:1294246"],(function(a,b,c,d,e,f,g){g.createPortal=b("cr:1294246").createPortal,g.findDOMNode=b("cr:1294246").findDOMNode,g.flushSync=b("cr:1294246").flushSync,g.hydrate=b("cr:1294246").hydrate,g.render=b("cr:1294246").render,g.unmountComponentAtNode=b("cr:1294246").unmountComponentAtNode,g.unstable_batchedUpdates=b("cr:1294246").unstable_batchedUpdates,g.unstable_renderSubtreeIntoContainer=b("cr:1294246").unstable_renderSubtreeIntoContainer,g.version=b("cr:1294246").version,g.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED=b("cr:1294246").__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED}),98);
